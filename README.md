@@ -16,8 +16,8 @@ Os princiapais resultados obtidos foram analisados estatisticamente por meio de 
 
 ```plaintext
 📦 Projeto
- ┣ 📂 processamento de texto/            # Conjuntos de dados utilizados.
- ┣ 📂 teste de hipótese/       # Notebooks com análises.
- ┣ 📂 resultados das análises/             # Scripts para processamento e análises.
- ┣ 📜 README.md        # Apresentação do projeto.
- ┗ 📜 LICENSE          # Informações sobre a licença.
+ ┣ 📂 processamento de texto/  # Código e dados utilizados para revisar a bibliografia.
+ ┣ 📂 teste de hipótese/       # Código e resultados do teste de hipótese aplicado aos resultados.
+ ┣ 📂 resultados das análises/ # Resultados e figuras das diversas análises.
+ ┣ 📜 README.md                # Apresentação do projeto.
+ ┗ 📜 LICENSE                  # Informações sobre a licença.
