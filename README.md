@@ -3,13 +3,12 @@
 [![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)](https://github.com/)  
 
 ## **Descrição do Projeto**  
-Este projeto busca compreender os impactos do aumento médio de temperatura no ciclo de vida, qualidade nutricional e sensorial do tomate-cereja. Com base em experimentos detalhados, investigamos:  
+Este projeto busca compreender os impactos do aumento médio de temperatura no ciclo de vida e na qualidade nutricional do tomate-cereja no contexto de segurança alimentar em mudanças climáticas. Com base em experimentos detalhados, investigamos:  
 - Disponibilidade de nutrientes no solo.  
 - Germinação, crescimento vegetativo e produção de frutos.  
-- Alterações químicas e nutritivas, incluindo análises de antioxidantes (licopeno e β-caroteno).  
-- Avaliações sensoriais de sabor, cor e textura.  
+- Alterações químicas e nutritivas.  
 
-Os resultados obtidos serão analisados estatisticamente, fornecendo insights sobre os efeitos das mudanças climáticas na agricultura.
+Os princiapais resultados obtidos foram analisados estatisticamente por meio de teste de hipótese, criação de figuras e processamento de textos.
 
 ---
 
@@ -17,9 +16,8 @@ Os resultados obtidos serão analisados estatisticamente, fornecendo insights so
 
 ```plaintext
 📦 Projeto
- ┣ 📂 data/            # Conjuntos de dados utilizados.
- ┣ 📂 notebooks/       # Notebooks com análises.
- ┣ 📂 src/             # Scripts para processamento e análises.
- ┣ 📂 figures/         # Gráficos e resultados visualizados.
+ ┣ 📂 processamento de texto/            # Conjuntos de dados utilizados.
+ ┣ 📂 teste de hipótese/       # Notebooks com análises.
+ ┣ 📂 resultados das análises/             # Scripts para processamento e análises.
  ┣ 📜 README.md        # Apresentação do projeto.
  ┗ 📜 LICENSE          # Informações sobre a licença.
